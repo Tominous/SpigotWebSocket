@@ -1,0 +1,16 @@
+Scheme: SWSP://(SpigotWebSocketProtocol)method.type/data
+
+#Messages
+send.message/message - send a message
+alert.message/message - alert a message
+
+#Auth
+request.authenticate/name;#-_-#;password - Request authenticate [Client]
+failed.authenticate - Auth failed
+data.authenticate/name;#-_-#;type - Send Auth data to Client
+
+#Commands
+request.command/command parm1 parm2 - Request Command Execute
+
+#Close
+close.socket

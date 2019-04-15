@@ -1,0 +1,7 @@
+name: Websocket
+version: 1.0.0
+author: Rasmus | DieGrammatik
+main: de.werdasliesstistdoof.websocket.server.main.Socket
+
+commands:
+  crypter:
