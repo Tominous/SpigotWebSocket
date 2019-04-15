@@ -1,4 +1,4 @@
-With this Plugin can you control you Server from every Computer in the WorldWideWeb. To use it, just put it into you 'plugins'-folder and reload the server. Then is a Config generated, and you can edit it. Here is a example-config below:
+With this Plugin can you control your Server from every Computer in the WorldWideWeb. To use it, just put it into you 'plugins'-folder and reload the server. Then is a Config generated, and you can edit it. Here is a example-config below:
 Config:
 ```
 Code (YAML):
