@@ -10,5 +10,7 @@ writes:
 - Rasmus
 ```
 Then you can start the Client over you Terminal. Open it, and type 'java -jar /apth/to/jar.jar <language>' or 'java -jar /apth/to/jar.jar <server> <port>' or 'java -jar /apth/to/jar.jar <server> <port> <language>' . Then follow the Instructions. Available languages are 'de' or 'en'. You can only type Comands, when you are on the "writes"-List.
+  
+All traffic is served encrypted!
 
 Have fun!
